@@ -4,20 +4,23 @@ Codsoft is a collection of three beginner-friendly web projects built with HTML,
 
 ## Projects
 
-### 1. Portfolio Website
-A personal portfolio website that showcases skills, projects, resume download, and contact details.
+### 1. Calculator
+A simple calculator app for basic arithmetic operations with a clean UI.
+Live Demo : https://vivekyadav081.github.io/CodSoft/Calculator/
 
-Folder: `portfolio`
+Folder: `Calculator`
 
 ### 2. Gamezone Landing Page
 A responsive landing page design for a gaming brand with hero visuals, navigation, and featured game cards.
+Live Demo : https://vivekyadav081.github.io/CodSoft/LandingPage/
 
 Folder: `landingpage`
 
-### 3. Calculator
-A simple calculator app for basic arithmetic operations with a clean UI.
+### 3. Portfolio Website
+A personal portfolio website that showcases skills, projects, resume download, and contact details.
+Live Demo : https://vivekyadav081.github.io/CodSoft/Portfolio/
 
-Folder: `Calculator`
+Folder: `Portfolio`
 
 ## Usage
 
