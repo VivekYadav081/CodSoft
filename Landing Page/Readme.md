@@ -29,6 +29,9 @@ This project showcases a sleek gaming landing page with a hero section, navigati
 
 - Images are loaded from external URLs.
 - This project is ideal as a static landing page template for gaming brands.
+ 
+## Live Demo
+https://vivekyadav081.github.io/CodSoft/Landing%20Page/
 
 ## License
 
