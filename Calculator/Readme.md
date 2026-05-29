@@ -33,6 +33,9 @@ This project provides a clean, responsive calculator interface with support for 
 - The display is read-only, so input is only accepted through the calculator buttons.
 - The calculator uses built-in JavaScript evaluation for expression handling.
 
+## Live Demo
+https://vivekyadav081.github.io/CodSoft/Calculator/
+
 ## License
 
 This project is open for learning and customization.
