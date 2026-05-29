@@ -12,7 +12,7 @@ Folder: `Calculator`
 
 ### 2. Gamezone Landing Page
 A responsive landing page design for a gaming brand with hero visuals, navigation, and featured game cards.
-Live Demo : https://vivekyadav081.github.io/CodSoft/Landing Page/
+Live Demo : https://vivekyadav081.github.io/CodSoft/Landing%20Page/
 
 Folder: `landingpage`
 
