@@ -33,6 +33,10 @@ This portfolio website presents a simple and modern profile page with sections f
 - This is a static portfolio site suitable for personal branding and job applications.
 - You can customize the content, colors, and layout to match your own style.
 
+## Live Demo
+https://vivekyadav081.github.io/CodSoft/Portfolio/
+
+
 ## License
 
 This project is open for learning, customization, and portfolio use.
